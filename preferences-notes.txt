@@ -1,0 +1,7 @@
+General > Editors > Text Editors > Insert spaces for tabs: true
+General > Editors > Text Editors > Show line numbers: true
+General > Editors > Text Editors > Show print margin: true
+General > Editors > Text Editors > Print margin column: 105
+
+General > Workspace > Refresh using native hooks or polling: true
+General > Workspace > Text file encoding: UTF-8
